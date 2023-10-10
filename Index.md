@@ -3,6 +3,8 @@ title: Getting Started | Markdown Guide
 description: An overview of Markdown, how it works, and what you can do with it.
 ---
 
+https://pin.it/1BZ2LXT
+
 # Getting Started
 
 An overview of Markdown, how it works, and what you can do with it.
