@@ -1,4 +1,4 @@
----
++---
 title: Getting Started | Markdown Guide
 description: An overview of Markdown, how it works, and what you can do with it.
 ---
