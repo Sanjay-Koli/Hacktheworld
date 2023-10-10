@@ -2,8 +2,7 @@
 title: Getting Started | Markdown Guide
 description: An overview of Markdown, how it works, and what you can do with it.
 ---
-
-https://pin.it/1BZ2LXT
+https://unsplash.com/photos/a-palm-tree-in-front-of-a-building-with-a-dome-E6I2dbdwnDg
 
 # Getting Started
 
