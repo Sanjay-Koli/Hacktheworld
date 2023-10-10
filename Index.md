@@ -2,7 +2,7 @@
 title: Getting Started | Markdown Guide
 description: An overview of Markdown, how it works, and what you can do with it.
 ---
-https://images.unsplash.com/photo-1695914990931-c5ec0d2f39a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1885&q=80
+
 
 # Getting Started
 
@@ -18,7 +18,7 @@ For example, to denote a heading, you add a number sign before it (e.g., `# Head
 
 ![Markdown file in the Visual Studio Code text editor](https://mdg.imgix.net/assets/images/vscode.png?auto=format&fit=clip&w=480)
 
-![Markdown file in the Visual Studio Code text editor](https://mdg.imgix.net/assets/images/vscode.png?auto=format&fit=clip&w=480)
+![Markdown file in the Visual Studio Code text editor]([https://mdg.imgix.net/assets/images/vscode.png?auto=format&fit=clip&w=480](https://images.unsplash.com/photo-1695914990931-c5ec0d2f39a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1885&q=80))
 
 You can add Markdown formatting elements to a plaintext file using a text editor application. Or you can use one of the many Markdown applications for macOS, Windows, Linux, iOS, and Android operating systems. There are also several web-based applications specifically designed for writing in Markdown.
 
