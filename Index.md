@@ -18,6 +18,8 @@ For example, to denote a heading, you add a number sign before it (e.g., `# Head
 
 ![Markdown file in the Visual Studio Code text editor](https://mdg.imgix.net/assets/images/vscode.png?auto=format&fit=clip&w=480)
 
+![Markdown file in the Visual Studio Code text editor](https://mdg.imgix.net/assets/images/vscode.png?auto=format&fit=clip&w=480)
+
 You can add Markdown formatting elements to a plaintext file using a text editor application. Or you can use one of the many Markdown applications for macOS, Windows, Linux, iOS, and Android operating systems. There are also several web-based applications specifically designed for writing in Markdown.
 
 Depending on the application you use, you may not be able to preview the formatted document in real time. But that’s okay. [According to Gruber](https://daringfireball.net/projects/markdown/), Markdown syntax is designed to be readable and unobtrusive, so the text in Markdown files can be read even if it isn’t rendered.
